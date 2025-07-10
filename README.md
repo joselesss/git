@@ -4,6 +4,6 @@
 <crear lista de usuarios para simular conflicto_
 
 
-*joseless
+*joseless        
 *manuel  
 *truñoman
