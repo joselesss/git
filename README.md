@@ -7,3 +7,4 @@
 *joseless        
 *manuel  
 *truñoman
+*DSR100
