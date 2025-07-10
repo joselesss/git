@@ -6,4 +6,8 @@
 
 *joseless        
 *manuel  
-*truñoman
+*truñoman     
+*fede      
+*el del bombo      
+casillas      
+
